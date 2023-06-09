@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessoSeletivo", "ProcessoSeletivo\ProcessoSeletivo.csproj", "{8427521F-CCEF-4691-BE6F-1BBC53010E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8427521F-CCEF-4691-BE6F-1BBC53010E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8427521F-CCEF-4691-BE6F-1BBC53010E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8427521F-CCEF-4691-BE6F-1BBC53010E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8427521F-CCEF-4691-BE6F-1BBC53010E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
